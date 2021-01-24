@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/StarwarsCards/static/css/main.ad1ab62a.chunk.css",
+    "main.js": "/StarwarsCards/static/js/main.f44b8e54.chunk.js",
+    "main.js.map": "/StarwarsCards/static/js/main.f44b8e54.chunk.js.map",
+    "runtime-main.js": "/StarwarsCards/static/js/runtime-main.b17edf2a.js",
+    "runtime-main.js.map": "/StarwarsCards/static/js/runtime-main.b17edf2a.js.map",
+    "static/css/2.83342f34.chunk.css": "/StarwarsCards/static/css/2.83342f34.chunk.css",
+    "static/js/2.c1d20b5f.chunk.js": "/StarwarsCards/static/js/2.c1d20b5f.chunk.js",
+    "static/js/2.c1d20b5f.chunk.js.map": "/StarwarsCards/static/js/2.c1d20b5f.chunk.js.map",
+    "index.html": "/StarwarsCards/index.html",
+    "static/css/2.83342f34.chunk.css.map": "/StarwarsCards/static/css/2.83342f34.chunk.css.map",
+    "static/css/main.ad1ab62a.chunk.css.map": "/StarwarsCards/static/css/main.ad1ab62a.chunk.css.map",
+    "static/js/2.c1d20b5f.chunk.js.LICENSE.txt": "/StarwarsCards/static/js/2.c1d20b5f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b17edf2a.js",
+    "static/css/2.83342f34.chunk.css",
+    "static/js/2.c1d20b5f.chunk.js",
+    "static/css/main.ad1ab62a.chunk.css",
+    "static/js/main.f44b8e54.chunk.js"
+  ]
+}
